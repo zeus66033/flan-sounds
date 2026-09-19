@@ -1,3 +1,12 @@
 {
-  "sounds": {}
+  "sounds": {
+    "creepy.mp3": "d5cf798d6d8c86b93da179643a167ba8bc010f0d99c885277729c7d379f9f0f9",
+    "dnc.mp3": "762cd02f265cfa82909c6e25612e55b4d8f28cdb65290b3c43be6f2bb4704286",
+    "luigi.mp3": "925779d9dd541acbecb4a0401b01d663bb56644e45d4ddd27bf828977e04d3a9",
+    "music.mp3": "bbe2df03fb2475e34f94e7f5ebbbb3eeec2690b729bb814afcc8ead4b204b4ff",
+    "speak.mp3": "7547543f624f37841607e8f3fcdd75b4244f2319d324cfcc9d508a6441a29d3b",
+    "spellcard.mp3": "3b4e6c123051cca4ef2c21c3fdb50ca6cb02124248ebaf134ec72b44964385ef",
+    "troll.mp3": "903fa18fbfd8f759c0550fc43dd21f1d1afc4726e08e45588c4e4322f953611b",
+    "vusvusvus.mp3": "12dce748aa10590367a75fc864b150f6f18ff9d0b5f18e31ae0af9bcd547628a"
+  }
 }
